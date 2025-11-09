@@ -1,0 +1,2 @@
+val_perplexity,num_parameters,tokens_per_sec,training_time_minutes,val_minus_train,total_tokens_processed
+27.67156402327033,2405441,53320.89313836862,3.137775647640228,1.2605937691568485,10038540
